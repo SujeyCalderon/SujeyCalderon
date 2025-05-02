@@ -3,7 +3,7 @@
   <picture>
     <source
       media="(max-width: 600px)"
-      srcset="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=14&color=%238A2BE2&center=true&vCenter=true&width=500&height=80&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast&lines=Code+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=14&color=%238A2BE2&center=true&vCenter=true&width=500&height=80&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast%0ACode+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80"
     />
     <img
       class="typing-svg"
@@ -13,6 +13,7 @@
     />
   </picture>
 </p>
+
 
 
 
