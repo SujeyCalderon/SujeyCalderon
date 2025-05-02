@@ -4,16 +4,15 @@
   <picture>
     <source
       media="(max-width: 600px)"
-      srcset="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;size=8&amp;color=%238A2BE2&amp;center=true&amp;vCenter=true&amp;width=2000&amp;height=200&amp;duration=8000&amp;pause=1000&amp;repeat=false&amp;lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast%0ACode+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80"
+      srcset="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=12&color=%238A2BE2&center=true&vCenter=true&width=1000&height=120&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast%0ACode+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80"
     />
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&amp;size=20&amp;color=%238A2BE2&amp;center=true&amp;vCenter=true&amp;width=1200&amp;height=60&amp;duration=8000&amp;pause=1000&amp;repeat=false&amp;lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast+%26+Code+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80"
+      src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=20&color=%238A2BE2&center=true&vCenter=true&width=1200&height=60&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast+%26+Code+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80"
       alt="Typing SVG"
       style="display:block; margin:0 auto; max-width:100%; height:auto;"
     />
   </picture>
 </div>
-
 
 
 
