@@ -5,6 +5,7 @@
     <img
       src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=20&color=%238A2BE2&center=true&vCenter=true&width=1200&height=60&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast+%26+Code+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80"
       alt="Typing SVG"
+      style="max-width: 100%; height: auto;"
     />
   </a>
 </p>
