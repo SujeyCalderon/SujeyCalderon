@@ -1,20 +1,17 @@
 <h2 align="center"><strong>Hi, I'm Sujey 👋</strong></h2>
 
-
 <div style="text-align: center; padding: 1rem 0;">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=20&color=%238A2BE2&center=true&vCenter=true&width=1200&height=60&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast+%26+Code+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80"
     srcset="
-      https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=12&color=%238A2BE2&center=true&vCenter=true&width=600&height=90&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast%0ACode+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80 600w,
+      https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=10&color=%238A2BE2&center=true&vCenter=true&width=700&height=140&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast%0ACode+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80 700w,
       https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&size=20&color=%238A2BE2&center=true&vCenter=true&width=1200&height=60&duration=8000&pause=1000&repeat=false&lines=Aspiring+Full-Stack+Developer+%7C+Backend+Enthusiast+%26+Code+Architect+%7C+Merging+Innovation+with+Structure+%F0%9F%9A%80 1200w
     "
     sizes="(max-width: 600px) 100vw, 1200px"
     alt="Typing SVG"
-    style="display: block; margin: 0 auto; max-width: 100%; height: auto;"
+    style="display:block; margin:0 auto; max-width:100%; height:auto;"
   />
 </div>
-
-
 
 
 
